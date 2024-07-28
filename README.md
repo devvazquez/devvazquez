@@ -2,7 +2,7 @@
 
 ###
 
-``java
+```java
 new Person("Biel Vazquez", "Spain")
 ```
 
