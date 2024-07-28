@@ -32,3 +32,17 @@ new Person("Biel Vazquez", "Spain", "Java Dev")
 </div>
 
 ###
+
+<p align="left">---------------------------------------------------------------------------------------</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/devvazquez/devvazquez/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/devvazquez/count.svg?"  />
+</div>
+
+###
