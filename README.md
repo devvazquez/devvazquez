@@ -33,8 +33,6 @@ new Person("Biel Vazquez", "Spain", "Java Dev")
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/devvazquez/count.svg?"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devvazquez&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ###
