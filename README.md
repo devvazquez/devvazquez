@@ -3,7 +3,9 @@
 ###
 
 ```java
-new Person("Biel Vazquez", "Spain")
+public record Person (String name, String country, String codingExperience) {}
+
+new Person("Biel Vazquez", "Spain", "Java Dev")
 ```
 
 ###
